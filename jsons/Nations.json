@@ -28,7 +28,7 @@
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
-		"uniques": ["[+10000]% Culture cost of natural border growth [in all cities]", "[-100]% unhappiness from the number of cities"],
+		"uniques": ["[+100000]% Culture cost of natural border growth [in all cities]", "[-100]% unhappiness from the number of cities", "[+10000]% Gold cost of acquiring tiles [in all cities]" ],
 		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
